@@ -1,0 +1,8 @@
+{
+    "name": "osman/mylib",
+    "description": "mylibraries",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
